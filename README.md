@@ -12,5 +12,5 @@ Thanks for your attention. The details can be found in the article: *A general f
 <p> Kuan Fan
 <p> PhD candidate
 <p> fankuan_hust@qq.com
-<p> School of mechanical science and engineering       
+<p> School of Mechanical Science and Engineering       
 <p> Huazhong University of Science and Technology
